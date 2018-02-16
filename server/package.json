@@ -1,0 +1,30 @@
+{
+  "name": "plenty",
+  "version": "1.0.0",
+  "description": "plenty website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuxandraBostaca/plenty.git"
+  },
+  "keywords": [
+    "plenty"
+  ],
+  "author": "Ruxandra Bostaca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RuxandraBostaca/plenty/issues",
+    "email" : "rbostaca@gmail.com"
+  },
+  "homepage": "https://github.com/RuxandraBostaca/plenty#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql2": "^1.4.2",
+    "sequelize": "^4.22.5",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.31.5"
+  }
+}
